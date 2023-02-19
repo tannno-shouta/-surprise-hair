@@ -100,17 +100,23 @@
 .header_reserve_link:hover,
 .header_reserve_link:focus,
 .header_reserve_link:active{
+  color: #727171;
   background-color: #eaeaea;
+  transition: .4s;
 }
 
-.header_reserve_en:hover,
+/* .header_reserve_en:hover,
 .header_reserve_en:focus,
 .header_reserve_en:active{
   color: #727171;
+  background-color: #eaeaea;
+  transition: .4s;
 }
 
 .header_reserve_ja:hover,
 .header_reserve_ja:focus,
 .header_reserve_ja:active{
   color: #727171;
-}
+  background-color: #eaeaea;
+  transition: .4s;
+} */
