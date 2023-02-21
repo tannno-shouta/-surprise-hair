@@ -105,18 +105,16 @@
   transition: .4s;
 }
 
-/* .header_reserve_en:hover,
-.header_reserve_en:focus,
-.header_reserve_en:active{
+.header_reserve_link:hover .header_reserve_en,
+.header_reserve_link:focus .header_reserve_en,
+.header_reserve_link:active .header_reserve_en{
   color: #727171;
-  background-color: #eaeaea;
   transition: .4s;
 }
 
-.header_reserve_ja:hover,
-.header_reserve_ja:focus,
-.header_reserve_ja:active{
+.header_reserve_link:hover .header_reserve_ja,
+.header_reserve_link:focus .header_reserve_ja,
+.header_reserve_link:active .header_reserve_ja{
   color: #727171;
-  background-color: #eaeaea;
   transition: .4s;
-} */
+}
