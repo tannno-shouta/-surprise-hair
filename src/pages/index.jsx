@@ -1,6 +1,6 @@
-import styles from '../styles/Home.module.css'
-import { Header } from '../components/Header';
-// import { Main } from '../components/Main';
+import styles from 'src/styles/Home.module.css';
+import { Header } from 'src/components/Header';
+import { Main } from 'src/components/Main';
 // import { Footer } from '../components/Footer';
 
 
@@ -8,6 +8,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Header/>
+      <Main/>
       {/* <Main page="index" />
       <Footer /> */}
     </div>
