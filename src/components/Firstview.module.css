@@ -3,3 +3,9 @@
   width: 100%;
   min-height: 760px;
 }
+
+.firstview_image{
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
