@@ -1,13 +1,14 @@
-import styles from 'src/components/Main.module.css'
+import styles from 'src/components/firstview.module.css'
 
-export function Firstview (props) {
+const Firstview  = (props) =>{
   return (
-      <div className= {styles.firstview}>
+      <div className= {styles.firstview} >
         <div className= {styles.firstview_image} >
-          <img src='src/img/main_view.jpg' alt ="メイン"></img>
+          <img src='/img/main_view.jpg' alt ="メイン" width="1080px"
+  height=  "720px"></img>
         </div>
       </div>
   );
 }
 
-export default Firstview;
+export { Firstview };
