@@ -1,4 +1,4 @@
-import styles from 'src/components/firstview.module.css'
+import styles from 'src/components/Firstview.module.css'
 
 const Firstview  = (props) =>{
   return (
