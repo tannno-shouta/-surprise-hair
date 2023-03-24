@@ -1,8 +1,8 @@
 import styles from 'src/components/Main.module.css'
-import Firstview from 'src/components/Firstview'
+import { Firstview } from 'src/components/Firstview'
 
 
-export function Main (props) {
+const Main = (props) => {
   return (
       <main className= {styles.main}>
         <Firstview/>
@@ -10,4 +10,4 @@ export function Main (props) {
   );
 }
 
-export default Main;
+export { Main };
