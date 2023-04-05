@@ -3,10 +3,12 @@
   height: 912px;
   min-height: 760px;
   display: block;
+  overscroll-behavior-y: none;
 }
 
 .firstview_image{
   margin-top: 100px;
   overflow: hidden;
   text-align : center;
+  overscroll-behavior-y: none;
 }
