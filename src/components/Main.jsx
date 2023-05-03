@@ -1,11 +1,11 @@
 import styles from 'src/components/Main.module.css'
-import { Firstview } from 'src/components/Heroview'
+import { FirstView } from 'src/components/FirstView'
 
 
 const Main = (props) => {
   return (
       <main className= {styles.main}>
-        <Firstview/>
+        <FirstView/>
       </main>
   );
 }

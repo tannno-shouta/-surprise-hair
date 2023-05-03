@@ -1,6 +1,6 @@
-import styles from 'src/components/Heroview.module.css'
+import styles from 'src/components/FirstView.module.css'
 
-const Firstview  = (props) =>{
+const FirstView  = (props) =>{
   return (
       <div className= {styles.firstview} >
         <div className= {styles.firstview_image} >
@@ -11,4 +11,4 @@ const Firstview  = (props) =>{
   );
 }
 
-export { Firstview };
+export { FirstView };
