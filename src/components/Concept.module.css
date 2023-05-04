@@ -1,19 +1,18 @@
-.consept{
+.concept{
  width: 100%;
  height: auto;
  display: flex;
- justify-content: center;
  border-top :solid 4px #eaeaea;
 }
 
 .concept_image{
-  display: block;
- margin: 30px;
+ display: block;
+ margin: 40px;
 }
 
 .concept_body{
  display: block;
- right : 20px;
+ margin: 150px 50px 40px;;
 }
 
 .concept_title{
@@ -21,15 +20,15 @@
  font-size: 44px;
  font-family: Georgia, 'Times New Roman', Times, serif;
  color: #eaeaea;
- padding: 5px ;
- margin: 1px 5px 10px;
+ padding: 3px;
+ margin-bottom: 20px;
 }
 
 .concept_text{
   font-size: 18px;
   font-family: Georgia, 'Times New Roman', Times, serif;
   color: #eaeaea;
-  margin: 5px;
+  margin: 10px;
  }
 
 
