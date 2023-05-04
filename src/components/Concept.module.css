@@ -1,0 +1,35 @@
+.consept{
+ width: 100%;
+ height: auto;
+ display: flex;
+ justify-content: center;
+ border-top :solid 4px #eaeaea;
+}
+
+.concept_image{
+  display: block;
+ margin: 30px;
+}
+
+.concept_body{
+ display: block;
+ right : 20px;
+}
+
+.concept_title{
+ border-top :solid 4px #eaeaea;
+ font-size: 44px;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ color: #eaeaea;
+ padding: 5px ;
+ margin: 1px 5px 10px;
+}
+
+.concept_text{
+  font-size: 18px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #eaeaea;
+  margin: 5px;
+ }
+
+
