@@ -2,7 +2,7 @@
  width: 100%;
  height: auto;
  display: flex;
- border-top :solid 4px #eaeaea;
+ border-top :solid 3px #eaeaea;
 }
 
 .concept_image{
@@ -12,11 +12,11 @@
 
 .concept_body{
  display: block;
- margin: 150px 50px 40px;;
+ margin: 150px 50px 40px;
 }
 
 .concept_title{
- border-top :solid 4px #eaeaea;
+ border-top :solid 3px #eaeaea;
  font-size: 44px;
  font-family: Georgia, 'Times New Roman', Times, serif;
  color: #eaeaea;

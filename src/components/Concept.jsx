@@ -12,7 +12,7 @@ const Concept  = (props) =>{
           <p className={styles.concept_text}>私たちは髪を通じて驚きと幸せを提供します。</p>
           <p className={styles.concept_text}>洗礼された技術でお客様をいろどり、</p>
           <p className={styles.concept_text}>寄り添う心で真剣にお客様に向き合い、</p>
-          <p className={styles.concept_text}>全てのお客様が幸せになる世界を作ります。</p>
+          <p className={styles.concept_text}>全てのお客様が幸せになる空間を作ります。</p>
         </div>
       </div>
   );
