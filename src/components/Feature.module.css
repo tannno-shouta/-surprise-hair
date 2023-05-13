@@ -19,14 +19,14 @@
  
  .feature_title{
   display: block;
-  width:22%;
+  width:50px;
   border-top :solid 4px #eaeaea;
   font-size: 22px;
   font-family: Georgia, 'Times New Roman', Times, serif;
   color: #eaeaea;
   padding: 3px;
   margin-bottom: 20px;
-  margin: 0 auto;
+  margin-left: 30%;
  }
  
  .feature_text{
